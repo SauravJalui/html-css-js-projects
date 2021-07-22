@@ -8,6 +8,7 @@ This is the main repository for all of the HTML/CSS/JS projects I've done.
 | 02  | [Expanding Cards](https://github.com/SauravJalui/expanding-cards)  | [Live Demo](https://sauravjalui.github.io/expanding-cards/) |
 | 03  | [Cloud Hosting Site](https://github.com/SauravJalui/cloud-hosting) | [Live Demo](https://sauravjalui.github.io/cloud-hosting/)   |
 | 04  | [Progress Steps](https://github.com/SauravJalui/progress-steps)    | [Live Demo](https://sauravjalui.github.io/progress-steps/)  |
+| 05  | [Pokemon Sprites](https://github.com/SauravJalui/pokemon-sprites)  | [Live Demo](https://sauravjalui.github.io/pokemon-sprites/) |
 
 ## License
 
