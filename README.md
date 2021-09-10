@@ -2,14 +2,15 @@
 
 This is the main repository for all of the HTML/CSS/JS projects I've done.
 
-|  #  | Project                                                             | Live Demo                                                   |
-| :-: | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 01  | [Photo Site](https://github.com/SauravJalui/photo-site)             | [Live Demo](https://sauravjalui.github.io/photo-site/)      |
-| 02  | [Expanding Cards](https://github.com/SauravJalui/expanding-cards)   | [Live Demo](https://sauravjalui.github.io/expanding-cards/) |
-| 03  | [Cloud Hosting Site](https://github.com/SauravJalui/cloud-hosting)  | [Live Demo](https://sauravjalui.github.io/cloud-hosting/)   |
-| 04  | [Progress Steps](https://github.com/SauravJalui/progress-steps)     | [Live Demo](https://sauravjalui.github.io/progress-steps/)  |
-| 05  | [Pokemon Sprites](https://github.com/SauravJalui/pokemon-sprites)   | [Live Demo](https://sauravjalui.github.io/pokemon-sprites/) |
-| 06  | [PingPong Scorekeeper](https://github.com/SauravJalui/score-keeper) | [Live Demo](https://sauravjalui.github.io/score-keeper/)    |
+|  #  | Project                                                                   | Live Demo                                                       |
+| :-: | ------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 01  | [Photo Site](https://github.com/SauravJalui/photo-site)                   | [Live Demo](https://sauravjalui.github.io/photo-site/)          |
+| 02  | [Expanding Cards](https://github.com/SauravJalui/expanding-cards)         | [Live Demo](https://sauravjalui.github.io/expanding-cards/)     |
+| 03  | [Cloud Hosting Site](https://github.com/SauravJalui/cloud-hosting)        | [Live Demo](https://sauravjalui.github.io/cloud-hosting/)       |
+| 04  | [Progress Steps](https://github.com/SauravJalui/progress-steps)           | [Live Demo](https://sauravjalui.github.io/progress-steps/)      |
+| 05  | [Pokemon Sprites](https://github.com/SauravJalui/pokemon-sprites)         | [Live Demo](https://sauravjalui.github.io/pokemon-sprites/)     |
+| 06  | [PingPong Scorekeeper](https://github.com/SauravJalui/score-keeper)       | [Live Demo](https://sauravjalui.github.io/score-keeper/)        |
+| 07  | [Rotating Navigation](https://github.com/SauravJalui/rotating-navigation) | [Live Demo](https://sauravjalui.github.io/rotating-navigation/) |
 
 ## License
 
